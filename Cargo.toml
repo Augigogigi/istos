@@ -1,0 +1,12 @@
+[package]
+name = "istos"
+version = "0.0.1"
+edition = "2021"
+authors = ["Thomas Reddy <contact@thomasreddy.com>"]
+description = "A rust crate for graphs."
+keywords = ["graph", "algorithms"]
+repository = "https://github.com/Augigogigi/istos"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+
+[dependencies]
