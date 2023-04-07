@@ -1,9 +1,9 @@
 [package]
 name = "istos"
-version = "0.0.1"
+version = "0.0.2"
 edition = "2021"
 authors = ["Thomas Reddy <contact@thomasreddy.com>"]
-description = "A rust crate for graphs."
+description = "A simple crate for graphs."
 keywords = ["graph", "algorithms"]
 repository = "https://github.com/Augigogigi/istos"
 license = "MIT OR Apache-2.0"
