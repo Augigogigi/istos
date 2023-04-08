@@ -1,6 +1,6 @@
 [package]
 name = "istos"
-version = "0.0.2"
+version = "0.0.3"
 edition = "2021"
 authors = ["Thomas Reddy <contact@thomasreddy.com>"]
 description = "A simple crate for graphs."
